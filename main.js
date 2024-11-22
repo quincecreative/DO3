@@ -289,7 +289,7 @@ const createScene = () => {
 
   target2.onPointerClickObservable.add(() => {
     desBoxText.innerHTML =
-      " <h2>Inner Race</h2><ul><li>Best endurance performance Inner Race with standarised GKN BPJ interface</li></ul>";
+      " <h2>Inner Race</h2><ul><li>Best endurance performance Inner Race with standarised GKN BPJ interface.</li></ul>";
     // desBox.style.visibility = "visible";
     // console.log(desBox.style.left);
     image.src = "innerRace.JPG";
@@ -356,7 +356,7 @@ const createScene = () => {
 
   target3.onPointerClickObservable.add(() => {
     desBoxText.innerHTML =
-      " <h2>Cage</h2><ul><li>Unequal track spacing to enable twin ball cage for optimised production</li></ul>";
+      " <h2>Cage</h2><ul><li>Unequal track spacing to enable twin ball cage for optimised production.</li></ul>";
     // desBox.style.visibility = "visible";
     // console.log(desBox.style.left);
     image.src = "cage.JPG";
