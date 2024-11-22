@@ -530,6 +530,7 @@ const createScene = () => {
 
         if (meshes[i].name == "3101095353_primitive1") {
           sphereTarget1.parent = meshes[i];
+            sphereTarget1.position.y = 0.04;
 
           target1.linkWithMesh(sphereTarget1);
 
