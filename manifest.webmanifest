@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "DO3 model",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "Icon.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "name": "DO3",
+  "short_name": "DO3",
+  "start_url": "/DO3/index.html"
+}
